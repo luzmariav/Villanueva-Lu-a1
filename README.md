@@ -1,3 +1,3 @@
 # Villanueva-lu-a1
-Assignemnt 1
+Assignment 1
 Villanueva Lu
